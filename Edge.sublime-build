@@ -1,0 +1,3 @@
+{
+	"shell_cmd": ["PATH_TO_EDGE", "$file"]
+}
